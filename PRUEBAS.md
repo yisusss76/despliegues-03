@@ -26,11 +26,8 @@ el fragmento de la URL sin que se aprecie desplazamiento.
 
 ## 4. Evidencias
 
-Pendiente de añadir capturas de:
+<img width="1917" height="962" alt="image" src="https://github.com/user-attachments/assets/e1e4e904-d1ef-4908-8292-ed48eb6e51fc" />
 
-- La página corregida con los enlaces visibles.
-- La navegación a Servicios y Contacto.
-- La web publicada con su dirección visible.
 
 ## 5. Incidencias y conclusión
 
