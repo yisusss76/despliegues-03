@@ -80,8 +80,24 @@ en `PRUEBAS.md`, elaborado por el compañero.
 
 ## 7. Despliegue
 
-La publicación se realizará con GitHub Pages utilizando la rama
-`main` y la carpeta raíz `/ (root)`.
+La página se ha publicado mediante GitHub Pages.
 
-**Enlace público y capturas del despliegue:**
-pendientes de incorporar y verificar.
+En Settings → Pages se ha configurado:
+
+- Source: Deploy from a branch.
+- Branch: main.
+- Carpeta: / (root).
+
+Enlace público:
+https://yisusss76.github.io/despliegues-03/
+
+Se ha comprobado en una ventana de incógnito que la página carga
+con sus estilos y permite acceder sin iniciar sesión en GitHub.
+
+### Configuración de GitHub Pages
+<img width="1917" height="965" alt="image" src="https://github.com/user-attachments/assets/c9e84858-76ce-46af-ba0b-e9f90c8d49cf" />
+
+
+### Web publicada
+<img width="1917" height="1015" alt="Captura de pantalla 2026-09-28 142226" src="https://github.com/user-attachments/assets/895e4d85-4b5a-4721-a4d9-9fc2bbff2a10" />
+
