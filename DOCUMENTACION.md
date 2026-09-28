@@ -73,7 +73,7 @@ La corrección inicial del CSS se guardó directamente en `main`,
 antes de incorporar al proceso el requisito de trabajo por ramas.
 Las ramas de desarrollo se crearon a partir de esa versión.
 
-El trabajo posterior seguirá este recorrido mediante pull requests:
+El trabajo posterior siguió este recorrido mediante pull requests:
 
 1. `feature/dev1` → `qa_pending`.
 2. `feature/dev2` → `qa_pending`.
@@ -127,4 +127,35 @@ con sus estilos y permite acceder sin iniciar sesión en GitHub.
 
 ### Web publicada
 <img width="1917" height="1015" alt="Captura de pantalla 2026-09-28 142226" src="https://github.com/user-attachments/assets/895e4d85-4b5a-4721-a4d9-9fc2bbff2a10" />
+
+## 8. Integración final y despliegue
+
+### Paso de QA a UAT
+
+Se fusionó `qa_pending` en `uat_pending` mediante la pull request #6.
+
+[Ver pull request #6](https://github.com/yisusss76/despliegues-03/pull/6)
+<img width="1912" height="962" alt="Captura de pantalla 2026-09-28 185404" src="https://github.com/user-attachments/assets/473ac772-8d2b-480c-b93e-5c6da276fe63" />
+
+
+### Validación y paso a main
+
+yisusss76 comprobó en UAT los documentos, las capturas,
+los resultados de las seis pruebas y la corrección del CSS.
+Después se fusionó `uat_pending` en `main`.
+
+Estas fusiones finales fueron realizadas por yisusss76 sin
+una nueva aprobación del compañero.
+<img width="1912" height="962" alt="Captura de pantalla 2026-09-28 185404" src="https://github.com/user-attachments/assets/93f7cb1e-9b18-4bfb-8949-9bea24261758" />
+
+
+### Comprobación del despliegue
+
+Tras la integración en `main`, la ejecución #2 de
+`pages-build-deployment` terminó correctamente.
+También se comprobó que la web publicada seguía funcionando.
+<img width="1917" height="960" alt="Captura de pantalla 2026-09-28 185011" src="https://github.com/user-attachments/assets/106e9931-814c-4981-ae72-602614df983f" />
+
+
+https://yisusss76.github.io/despliegues-03/
 
