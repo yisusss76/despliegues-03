@@ -14,10 +14,10 @@ Rama de trabajo: feature/dev2.
 
 | Prueba | Resultado esperado | Resultado obtenido |
 |---|---|---|
-| Abrir la página | La página carga con sus estilos | Pendiente |
-| Revisar el menú | «Servicios» y «Contacto» son visibles | Pendiente |
-| Pulsar «Servicios» | La URL termina en #servicios y apunta a las tarjetas | Pendiente |
-| Pulsar «Contacto» | La URL termina en #contacto y apunta al pie de página | Pendiente |
+| Abrir la página | La página carga con sus estilos | Correcto: la página carga con sus estilos |
+| Revisar el menú | «Servicios» y «Contacto» son visibles |  Correcto: ambos enlaces son visibles |
+| Pulsar «Servicios» | La URL termina en #servicios y apunta a las tarjetas |  Correcto: la URL termina en #servicios |
+| Pulsar «Contacto» | La URL termina en #contacto y apunta al pie de página | Correcto: la URL termina en #contacto |
 | Revisar el diseño | La cabecera, el botón, las tarjetas y el pie mantienen su aspecto | Pendiente |
 | Abrir el enlace público en una ventana privada | La web carga sin iniciar sesión en GitHub | Pendiente |
 
