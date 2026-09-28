@@ -29,7 +29,9 @@ La regla responsable estaba en el archivo `styles.css`:
 }
 ```
 
-**Captura del error y del inspector:** pendiente de incorporar.
+### Captura del fallo original
+<img width="1917" height="951" alt="Captura de pantalla 2026-09-28 123012" src="https://github.com/user-attachments/assets/7d1a4960-a3fd-4bdb-b8a9-c0a708e693b2" />
+
 
 ## 4. Corrección realizada
 
