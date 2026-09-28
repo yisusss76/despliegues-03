@@ -80,13 +80,21 @@ El trabajo posterior seguirá este recorrido mediante pull requests:
 3. `qa_pending` → `uat_pending`.
 4. `uat_pending` → `main`.
 
-**Enlaces y capturas de commits, revisiones y pull requests:**
-pendientes de incorporar conforme se realicen.
+### Revisión y fusión de la documentación
+
+La pull request de `feature/dev1` a `qa_pending` fue aprobada
+por daricuake-prog y fusionada por yisusss76.
+
+[Ver pull request #1](https://github.com/yisusss76/despliegues-03/pull/1)
+
+<img width="1917" height="976" alt="image" src="https://github.com/user-attachments/assets/b32b2c9f-b813-497c-a722-a9e6f070489c" />
+
 
 ## 6. Pruebas
 
-Los resultados y las evidencias de las comprobaciones se recogerán
-en `PRUEBAS.md`, elaborado por el compañero.
+Los resultados y las evidencias de las comprobaciones se recogen
+en PRUEBAS.md. El compañero creó el plan y registró las primeras
+pruebas; posteriormente añadí las capturas y completé los resultados.
 
 ## 7. Despliegue
 
