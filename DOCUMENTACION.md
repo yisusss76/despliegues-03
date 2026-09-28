@@ -32,6 +32,9 @@ La regla responsable estaba en el archivo `styles.css`:
 ### Captura del fallo original
 <img width="1917" height="951" alt="Captura de pantalla 2026-09-28 123012" src="https://github.com/user-attachments/assets/7d1a4960-a3fd-4bdb-b8a9-c0a708e693b2" />
 
+<img width="557" height="22" alt="image" src="https://github.com/user-attachments/assets/f4dc8210-3b01-4952-b5b6-41b747b97b44" />
+
+
 
 ## 4. Corrección realizada
 
@@ -47,7 +50,12 @@ definida en el CSS con el valor `#1f2933`.
 
 El cambio afecta únicamente al color de los enlaces del menú.
 
-**Captura del resultado:** pendiente de incorporar.
+### Resultado corregido
+<img width="1917" height="962" alt="Captura de pantalla 2026-09-28 141018" src="https://github.com/user-attachments/assets/0fece1da-8100-4ac2-86f9-b8dcf59cfbf1" />
+
+<img width="632" height="22" alt="image" src="https://github.com/user-attachments/assets/833e8d96-8d86-4e0a-832f-d0ced8425779" />
+
+
 
 ## 5. Organización del trabajo en pareja
 
