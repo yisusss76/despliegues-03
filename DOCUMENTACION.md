@@ -89,6 +89,15 @@ por daricuake-prog y fusionada por yisusss76.
 
 <img width="1917" height="976" alt="image" src="https://github.com/user-attachments/assets/b32b2c9f-b813-497c-a722-a9e6f070489c" />
 
+### Revisión y fusión del plan de pruebas
+
+daricuake-prog incorporó el plan de pruebas desde `feature/dev2`
+a `qa_pending`. La pull request fue revisada y aprobada por
+yisusss76, y fusionada por daricuake-prog.
+
+[Ver pull request #2](https://github.com/yisusss76/despliegues-03/pull/2)
+
+<img width="1917" height="971" alt="image" src="https://github.com/user-attachments/assets/c6e2d678-113e-4164-93b6-3d0c4f4ccc2d" />
 
 ## 6. Pruebas
 
